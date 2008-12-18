@@ -1,0 +1,2 @@
+require 'hpricot'
+require 'localizame'
